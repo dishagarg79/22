@@ -19,7 +19,7 @@ body {
 body {
 	background: #ffffff;
 	font-family: 'Permanent Marker', cursive;
-	font-size: 12px;
+	font-size: 16px;
 }
 
 .container {
@@ -85,7 +85,7 @@ h1 {
 .deck .card.match {
 	cursor: default;
 	background: #E5F720;
-	font-size: 12px;
+	font-size: 25px;
 	animation-name: rubberBand;
 	-webkit-backface-visibility: visible !important;
 	backface-visibility: visible !important;
@@ -125,8 +125,7 @@ h1 {
 
 .score-panel .stars li {
 	list-style: none;
-    display: inline-block;
-    font-size: 14px;
+	display: inline-block;
 }
 
 .score-panel .restart {
