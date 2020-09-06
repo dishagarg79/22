@@ -124,7 +124,8 @@ h1 {
 
 .score-panel .stars li {
 	list-style: none;
-	display: inline-block;
+    display: inline-block;
+    font-size: 14px;
 }
 
 .score-panel .restart {
@@ -334,4 +335,3 @@ h1 {
 		width: 60%;
 	}
 }
-
